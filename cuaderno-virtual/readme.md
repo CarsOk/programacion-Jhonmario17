@@ -26,4 +26,13 @@ End Sub"
 
 ### EJERCICIO GRAFICO CON STAR UML
 
-<img src="img/imagen1.jpg" alt="" width="100">
+<img src="img/imagen1.jpg" alt="text" width="100">
+
+
+
+
+
+
+
+
+

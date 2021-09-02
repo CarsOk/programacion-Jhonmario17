@@ -14,16 +14,16 @@ grafica con Star UML <br>
  
 ### EJERCICIO CON EXECEL VISUAL BASIC <br>
 
-
-"Sub ejemplo()
+```
+Sub ejemplo()
 
 MsgBox "HOLA INTRUSO SOY JHON MARIO"
 MsgBox "TE TENDRAS QUE IR"
 MsgBox "O TE MANDARE UN VIRUS"
 
 End Sub"
-
+```
 
 ### EJERCICIO GRAFICO CON STAR UML
 
-<img src="img/1.jpg" alt=""  width="100">
+<img src="img/1.jpg" width="100">

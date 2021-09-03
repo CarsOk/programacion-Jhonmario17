@@ -26,5 +26,5 @@ End Sub"
 
 ### EJERCICIO GRAFICO CON STAR UML
 
-<img src="img/img1.jpg" width="100">
+<img src="img/img1.jng" width="100">
 

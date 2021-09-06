@@ -26,5 +26,5 @@ End Sub"
 
 ### EJERCICIO GRAFICO CON STAR UML
 
-<img src= "img/diagrama-de-fljuo.jpg" width="500">
+<img src="img/diagrama-de-flujo.jpg" width="300">
 

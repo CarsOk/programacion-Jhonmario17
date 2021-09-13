@@ -1,9 +1,9 @@
-# PROGRAMACION
+# **PROGRAMACION**
 
 
-## FECHA <br>
+## **FECHA** <br>
 
-### septiembre 09 2021 <br>
+### **septiembre 09 2021** <br>
 
 en la clase se utilizaron los programas de excel visual basic 
 y star uml para segir al fondo de la programacion cada vez mas 
@@ -13,7 +13,7 @@ que colocamos en visual basic y con el comando "InputBox" si
 queremos decirle o pedirle al usuario que digite informacion 
 <br>
 
-### EJEMPLO DE EXECEL VISAUL BASIC
+### **EJEMPLO DE EXECEL VISAUL BASIC**
 ```
 Sub ejemplo () 
     a = InputBox("digite primer numero")
@@ -22,7 +22,7 @@ Sub ejemplo ()
     MsgBox "la suma es " & c
 End Sub
 ```
-### EJERCICIO DE EXECEL VISUAL BASIC 
+### **EJERCICIO DE EXECEL VISUAL BASIC** 
 
 ```
 Sub ejemplo ()
@@ -35,6 +35,6 @@ Sub ejemplo ()
     MsgBox "el promedio es "& f / 5
 End Sub
 ```
-### DIAGRAMA DE FLUJO DE STAR UML
+### **DIAGRAMA DE FLUJO DE STAR UML**
 
 <img src="img/diagrama-de-flujo-2.jpg" width="300">

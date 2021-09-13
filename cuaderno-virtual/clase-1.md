@@ -1,16 +1,16 @@
-# PROGRAMACION
+# **PROGRAMACION**
 
 
-## FECHA <br>
+## **FECHA** <br>
 
-### septiembre 02 2021 <br>
+### **septiembre 02 2021** <br>
  
 aprendi con el instructore henry mas sobre el
 programa de Star UML, tambien como ejecutar  
 ciertos anucio con el progama de excel con 
 visual. <br>
 
-### EJEMPLO DE EXECEL VISUAL BASIC <br>
+### **EJEMPLO DE EXECEL VISUAL BASIC** <br>
 
 ```
 Sub ejemplo()
@@ -19,13 +19,13 @@ MsgBox "hola mundo"
 
 End Sub
 ```
-### COMPROMISO 
+### **COMPROMISO**
 
 tambien dejo como compromiso hacer tres 
 anuncio diferentes y su representancion 
 grafica con Star UML <br>
 
-### EJERCICIO CON EXECEL VISUAL BASIC <br>
+### **EJERCICIO CON EXECEL VISUAL BASIC** <br>
 
 ```
 Sub ejemplo()
@@ -36,7 +36,7 @@ MsgBox "O TE MANDARE UN VIRUS"
 
 End Sub
 ```
-### EJERCICIO GRAFICO CON STAR UML
+### **EJERCICIO GRAFICO CON STAR UML**
 
 <img src="img/diagrama-de-flujo-1.jpg" width="300">
 

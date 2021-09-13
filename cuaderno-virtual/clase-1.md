@@ -36,8 +36,7 @@ MsgBox "O TE MANDARE UN VIRUS"
 
 End Sub
 ```
-
 ### EJERCICIO GRAFICO CON STAR UML
 
-<img src="img/diagrama-de-flujo.jpg" width="300">
+<img src="img/diagrama-de-flujo-1.jpg" width="300">
 

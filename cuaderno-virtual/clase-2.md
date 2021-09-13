@@ -7,8 +7,8 @@
 
 en la clase se utilizaron los programas de excel visual basic 
 y star uml para segir al fondo de la programacion cada vez mas 
-esta vez se utilizo la combinacion de "MsBox" y el "InputBox" 
-recordamos que el comando "MsBox" es para mostrar en execel lo 
+esta vez se utilizo la combinacion de "MsgBox" y el "InputBox" 
+recordamos que el comando "MsgBox" es para mostrar en execel lo 
 que colocamos en visual basic y con el comando "InputBox" si 
 queremos decirle o pedirle al usuario que digite informacion 
 <br>

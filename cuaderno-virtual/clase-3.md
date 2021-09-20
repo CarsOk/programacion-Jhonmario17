@@ -37,8 +37,8 @@ Sub ejercicio()
   matematica = Int(InputBox("escribe la nota de matematica"))
   ingles = Int(InputBox("escribe la nota de ingles"))
   empresarial = Int(InputBox("escribe la nota de empresarial"))
-  promedio = biologia + español + matematica + ingles + empresarial
-  resultado = promedio / 5
+  sumatoria = biologia + español + matematica + ingles + empresarial
+  resultado = sumatoria / 5
   MsgBox " el promedio que tines es " & resultado
   If (resultado > 7) Then
     MsgBox " el promedio que tiene " & n & " es mayor o igual a 7 "

@@ -10,7 +10,7 @@ hacer que el programa tenga una serie de
 opciones para eso utilizamos en visual basic 
 el codigo " Int(InputBox("texto")) "  <br>
 
-### **EJEMPLO DE EXECL VISUAL BASIC** <br>
+**EJEMPLO DE EXECEL VISUAL BASIC** <br>
 ```
 Sub ejemplo ()
     
@@ -27,7 +27,7 @@ Sub ejemplo ()
     End If    
 End Sub
 ```
-### **EJERCICIO DE EXECEL VISUAL BASIC** <br>
+**EJERCICIO DE EXECEL VISUAL BASIC** <br>
 
 ```
 Sub ejercicio()
@@ -52,7 +52,7 @@ Sub ejercicio()
   
 End Sub
 ```
-### **DIAGRAMA DE FLUJO DE STAR UML** <br>
+**DIAGRAMA DE FLUJO DE STAR UML** <br>
 
 <img src="img/diagrama-de-flujo-3.jpg" width="300">
 

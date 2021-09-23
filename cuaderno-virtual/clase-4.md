@@ -49,5 +49,5 @@ Function misnotas(a, e, i, o, u)
        
 End Function
 ```
-**FOTO DE EXECEL**
+**FOTO DE EXECEL**<br>
 <img src="img/execel-1.jpg" width="300">

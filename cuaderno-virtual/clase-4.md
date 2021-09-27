@@ -40,7 +40,6 @@ End Sub
 Function misnotas(a, e, i, o, u)
 
     promedio = (a + e + i + o + u) / 5
-    misnotas = promedio
     If (misnotas > 7) Then
         misnotas = " el promedio es mayor " & n & "o igual a 7 aprueba"
     Else

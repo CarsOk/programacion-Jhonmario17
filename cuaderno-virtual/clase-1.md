@@ -10,7 +10,7 @@ programa de Star UML, tambien como ejecutar
 ciertos anucio con el progama de excel con 
 visual. <br>
 
-**EJEMPLO DE EXECEL VISUAL BASIC** <br>
+**EJEMPLO DE EXCEL VISUAL BASIC** <br>
 
 ```
 Sub ejemplo()
@@ -25,7 +25,7 @@ tambien dejo como compromiso hacer tres
 anuncio diferentes y su representancion 
 grafica con Star UML <br>
 
-**EJERCICIO CON EXECEL VISUAL BASIC** <br>
+**EJERCICIO CON EXCEL VISUAL BASIC** <br>
 
 ```
 Sub ejemplo()

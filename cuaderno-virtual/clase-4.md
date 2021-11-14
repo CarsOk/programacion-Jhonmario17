@@ -3,7 +3,8 @@
 
 ## **septiembre 20 2021** <br>
 aprendimos a crear funciones con visual basic ejecutando " Function " tambien a hacer un registro en un cuadro y pasarlo a otra parte 
-### **EXECEL VISUAL BASIC**
+
+### **EXCEL VISUAL BASIC**
 **EJEMPLO 1**
 ```
 Sub ejercicio1()
@@ -48,5 +49,5 @@ Function misnotas(a, e, i, o, u)
        
 End Function
 ```
-**FOTO DE EXECEL**<br>
+**FOTO DE EXCEL**<br>
 <img src="img/execel-1.jpg" width="300">

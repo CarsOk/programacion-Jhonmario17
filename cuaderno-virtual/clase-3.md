@@ -10,7 +10,7 @@ hacer que el programa tenga una serie de
 opciones para eso utilizamos en visual basic 
 el codigo " Int(InputBox("texto")) "  <br>
 
-**EJEMPLO DE EXECEL VISUAL BASIC** <br>
+**EJEMPLO DE EXCEL VISUAL BASIC** <br>
 ```
 Sub ejemplo ()
     
@@ -27,7 +27,7 @@ Sub ejemplo ()
     End If    
 End Sub
 ```
-**EJERCICIO DE EXECEL VISUAL BASIC** <br>
+**EJERCICIO DE EXCEL VISUAL BASIC** <br>
 
 ```
 Sub ejercicio()

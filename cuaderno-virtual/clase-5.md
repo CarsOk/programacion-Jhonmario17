@@ -3,10 +3,10 @@
 
 **octubre 11 2021**
 
-trabajamos lo que fueron los ciclo en visual basic de execel "**For**" esto nos perimite hacer unas repeticiones como su nombre lo dice es 
+trabajamos lo que fueron los ciclo en visual basic de excel "**For**" esto nos perimite hacer unas repeticiones como su nombre lo dice es 
 un ciclo que se repite la cantida que pongamos en el codigo seguimos trabajando con ( FOR, TO  ) para trabajar los ciclo 
 
-**EJEMPLO VISUAL BASIC EXECEL**
+**EJEMPLO VISUAL BASIC EXCEL**
 
 ```
 Sub prueba()
@@ -15,7 +15,7 @@ Sub prueba()
     Next i
 End Sub
 ```
-**EJERCICIO DE VISUAL BASIC EXECEL**
+**EJERCICIO DE VISUAL BASIC EXCEL**
 
 ```
 Sub ejercicio2()

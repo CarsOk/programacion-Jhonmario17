@@ -13,7 +13,7 @@ que colocamos en visual basic y con el comando "InputBox" si
 queremos decirle o pedirle al usuario que digite informacion 
 <br>
 
-**EJEMPLO DE EXECEL VISAUL BASIC**
+**EJEMPLO DE EXCEL VISAUL BASIC**
 ```
 Sub ejemplo () 
     a = InputBox("digite primer numero")
@@ -22,7 +22,7 @@ Sub ejemplo ()
     MsgBox "la suma es " & c
 End Sub
 ```
-**EJERCICIO DE EXECEL VISUAL BASIC** 
+**EJERCICIO DE EXCEL VISUAL BASIC** 
 
 ```
 Sub ejemplo ()
